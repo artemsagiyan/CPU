@@ -1,0 +1,1566 @@
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 0
+		Data [0x55ce9dd52840]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 0
+		Data [0x55ce9dd52840]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 0
+		Data [0x55ce9dd52840]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 0
+		Data [0x55ce9dd52840]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 1
+		Data [0x55ce9dd52840]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 3
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 3
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 3
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 3
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 3
+		Data [0x55ce9dd52840]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 4
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+		*[3] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 4
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+		*[3] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 4
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+		*[3] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 5
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+		*[3] = 4
+		*[4] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 5
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+		*[3] = 4
+		*[4] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 5
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+		*[3] = 4
+		*[4] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 4
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+		*[3] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 4
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+		*[3] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 4
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+		*[3] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+		*[2] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 7
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 2
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 2
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 2
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 8
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 8
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 8
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 8
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 8
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 8
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 8
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 8
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 8
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 8
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 4
+		*[2] = 8
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 4
+		*[2] = 8
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 3
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 4
+		*[2] = 8
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 4
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 2
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 2
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 2
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 0
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		There aren't elements
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 1
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 1
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8b40]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 2
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8a90]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 2
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
+
+******************************************************************************************
+Stack <int> (OK) [0x7ffd62be8ad0]
+		In file : Stack_Function.cpp
+		Function: StackDump
+		Line    : 222
+		Size    : 2
+		Capacity: 3
+		Data [0x55ce9dd54090]
+
+		Elements:
+		*[0] = 0
+		*[1] = 2
+
+		*[C_1] = -537001987 (CANARY)
+		*[C_2] = -537001987 (CANARY)
+
+ALL ELEMENTS HAVE FIILED IN POISON
+******************************************************************************************
